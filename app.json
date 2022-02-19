@@ -1,8 +1,9 @@
 {
   "expo": {
-    "name": "heat_study_app",
-    "slug": "heat_study_app",
+    "name": "heat-study-app",
+    "slug": "heat-study-app",
     "version": "1.0.0",
+    "scheme": "heat-study-app",
     "orientation": "portrait",
     "icon": "./assets/iconDoWhile.png",
     "splash": {
