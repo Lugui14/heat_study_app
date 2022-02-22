@@ -2,7 +2,9 @@
 <p align="center"> 🚀 Projeto construído na NLW para compartilhamento de mensagens. </p>
 
 <h4 align="center"> 
-	🚧  Em construção...  🚧
+	
+🚀 Finalizado! 🚀
+	
 </h4>
 
 <p align="center">
